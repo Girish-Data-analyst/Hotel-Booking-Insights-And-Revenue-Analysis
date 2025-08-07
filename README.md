@@ -75,5 +75,5 @@ Key use cases:
 
 ## 👤 Author
 
-> **[Your Name Here]**  
-> Connect with me on [LinkedIn](#) | GitHub: [your-github-username](#)
+> **[Girish K S]**  
+> Connect with me on [girishhemanth823@gmail.com]
